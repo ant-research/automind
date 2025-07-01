@@ -154,11 +154,6 @@ This script will build the Docker image as well as container for AutoMind and ru
 
 Our code for Agentic Knowledgeable Tree Search is built on top of [aideml](https://github.com/WecoAI/aideml/) framework. Our code for evaluation is implemented based on OpenAI's [mle-bench](https://github.com/openai/mle-bench). We thank all authors for their great contributions!
 
-## 🎉Contributors
-
-<a href="https://github.com/innovatingAI/AutoMind/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=innovatingAI/AutoMind" /></a>
-
 We will offer long-term maintenance to fix bug for the project. Welcome for issues and PRs!
 
 ## 🚩Citation
